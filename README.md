@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Gaurav Garwa from Surajgarh, Rajasthan<br><br>-  👨🏻‍💻 I'm currently working on <a href="https://github.com/gaurav1832/CodeMaps">CodeMaps<a/> <br>- 📚 I'm currently learning NextJs<br>- ⚡ In my free time I play Chess ♞</p>
+<p align="left">I'm Gaurav Garwa from Surajgarh, Rajasthan<br><br>-  👨🏻‍💻 I'm currently working on Angular<a/> <br>- 📚 I'm currently learning NextJs<br>- ⚡ In my free time I play Chess ♞</p>
 
 ###
 
