@@ -4,11 +4,6 @@
 
 ###
 
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=gaurav1832&pretty=true)](https://visitcount.itsvg.in)
-</div>
-
 <h1 align="center">hey there 👋</h1>
 
 ###
